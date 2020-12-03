@@ -1,10 +1,7 @@
 # alura-html-css
-Escola: Alura
-Curso: HTML5 e CSS3
-Instrutor: Pedro Marins
 
-Este projeto foi desenvolvido como parte integrante do curso.
-O curso possui 4 módulos:
+<p>Este projeto foi desenvolvido como parte integrante do curso <a href="https://www.alura.com.br/">Alura</a> <b>HTML5 e CSS3</b>, ministrado pelo professor Pedro Marins.</p>
+<p>O curso está dividido em 4 módulos:</p>
 
 <h3>HTML5 e CSS3 parte 1: A primeira página da Web</h3>
 
