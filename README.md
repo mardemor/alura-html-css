@@ -1,7 +1,7 @@
 # alura-html-css
 
 <p>Este projeto foi desenvolvido como parte integrante do curso <b>HTML5 e CSS3</b> da escola <a href="https://www.alura.com.br/">Alura</a>, ministrado pelo professor Pedro Marins.</p>
-<p>O curso está dividido em 4 módulos:</p>
+<p>O curso tem a carga horária total de 32 horas e está dividido em 4 módulos:</p>
 
 <h3>Parte 1: A primeira página da Web</h3>
 
