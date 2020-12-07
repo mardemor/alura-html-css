@@ -1,0 +1,18 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titulo {
+    margin: 0 0 1em;
+    text-align: center;
+    font-size: 2em;     
+    clear: left; 
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
