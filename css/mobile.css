@@ -1,0 +1,62 @@
+@media screen and (max-width: 480px) {
+
+    .cabecalho, .beneficios-conteudo, .mapa-conteudo, .video, .produtos {
+        width: auto;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    nav {
+        text-align: center;
+        position: static;
+    }
+
+    nav a {
+        font-size: 1em;
+    }
+
+    .principal {
+        width: auto;
+        padding: 3em 1em;
+    }
+
+    .mapa {
+        padding-top: 0;
+    }
+
+    .beneficios {
+        padding-top: 0;
+    }
+
+    .lista-beneficios {
+        width: 100%;
+        padding-bottom: 1em;
+        text-align: center;
+    }    
+
+    .imagem-beneficios {
+        width: 100%;
+    }
+
+    .produtos li {
+        width: 90%;
+        margin: 1em;
+        display: block;
+    }
+
+    .input-padrao {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .enviar, select {
+        width: 100%;
+    }
+
+    table {
+        width: 90%;
+    }
+
+}
