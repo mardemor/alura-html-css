@@ -35,3 +35,5 @@
 <li>Use seletores de CSS avançados</li>
 <li>Saiba como lidar com opacidade e sombra</li>
 <li>Entenda sobre o Viewport e design responsivo</li>
+
+<p>Acesse o <a href="https://mardemor.github.io/alura-html-css/">site</a> do projeto.</p>
